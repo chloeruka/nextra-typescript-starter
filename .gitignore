@@ -1,0 +1,12 @@
+logs
+*.logs
+npm-debug.log*
+coverage
+
+# dependencies
+node_modules
+.npm
+
+# build artifacts
+.next
+public
